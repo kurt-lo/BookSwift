@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 4563,
+      "title": "Harry Potter",
+      "author": "J. K. Rowling"
+    },
+    {
+      "title": "Nolie Me Tangere",
+      "author": "Jose Rizal",
+      "id": 33431
+    },
+    {
+      "id": 72300,
+      "title": "El Filibusterismo",
+      "author": "Jose Rizal"
+    }
+  ]
+}

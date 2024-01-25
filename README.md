@@ -1,6 +1,6 @@
 # Book Management CRUD App
 
-This project is a simple CRUD (Create, Read, Update, Delete) application for managing books. It is built using Next.js, Tailwind CSS, Daisy UI components, and a JSON server with TypeScript.
+This project is a CRUD (Create, Read, Update, Delete) application for managing books. It is built using Next.js, Tailwind CSS, Daisy UI components, and a JSON server with TypeScript.
 
 ## Technologies Used
 
